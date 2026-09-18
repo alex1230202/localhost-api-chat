@@ -1,0 +1,12 @@
+# 本地存档：真实对话记录，绝对不要提交
+chat_history/
+# 用户自己填的 key 在浏览器 localStorage 里，不落盘；这里防的是手动导出
+*.local.json
+# Python
+__pycache__/
+*.pyc
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
