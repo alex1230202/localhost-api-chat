@@ -1,5 +1,5 @@
 # 本地聊天网页
-
+(this repo is 100%ai generated including the readme :)        )
 一个**单文件、零依赖**的聊天界面。Python 标准库 + 一个 HTML 页面，双击运行即可，
 把自己的 API 地址和 Key 填进去就能对话。
 
